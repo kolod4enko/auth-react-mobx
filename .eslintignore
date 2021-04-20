@@ -1,0 +1,6 @@
+/node_modules/**
+config-overrides.js
+/build
+/src/assets/fonts
+/src/setupProxy.js
+/src/react-app-env.d.ts
